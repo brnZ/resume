@@ -1,7 +1,7 @@
 Brian Zhang
 ============
 Software Engineer.
--------------------
+
 Phone: 925-699-3883
 Location: Berkeley, California
 Email: brian.zhang@berkeley.edu
