@@ -72,13 +72,13 @@ CS 188 - Artificial Intelligence
 
 ## Skills
 #### Web Frameworks 
-AngularJS, D3, Express, Node.js, React, Django, Flask.
+AngularJS, D3, Express, Node.js, React, Django, Flask
 
 #### Programming Languages 
-C, C++, CoffeeScript, Objective-C, Java, JavaScript, Python, Ruby, Scala, Swift.
+C, C++, CoffeeScript, Objective-C, Java, JavaScript, Python, Ruby, Scala, Swift
 
 #### Operating Systems 
-Arch, Debian, Fedora, OS X, Windows.
+Arch, Debian, Fedora, OS X, Windows
 
 
 ## References
