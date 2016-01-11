@@ -53,10 +53,11 @@ CS 170 - Efficient Algorithms and Intractable Problems
   - NP-Hard Approximation - approximation algorithm for a maximum acyclic subgraph problem proven to yield a better than 1/2-approximation on a majority of instances by reduction to a constraint satisfaction problem (Python)
 
 CS 186 - Database Systems
-  - Query Plans and Joins - chunk-nested loop join and symmetric hash join implemented using Amazon SimpleDB (Java)
+  - Course Project - database system implementation using Amazon SimpleDB (Java)
+    - Query Plans and Joins - support for chunk-nested loop join and symmetric hash join
+    - Query Optimizer - dynamic programming and greedy join algorithms
+    - Recovery - support for log-based rollback and crash recovery (to enforce atomicity and durability)
   - UDF Caching in Spark - disk hash-partitioning, in-memory UDF caching, and hash-partitioned UDF caching implemented using Apache Spark (Scala)
-  - Query Optimizer - dynamic programming and greedy join algorithms implemented using Amazon SimpleDB (Java)
-  - Recovery - log-based rollback and crash recovery (to enforce atomicity and durability) implemented using Amazon SimpleDB (Java)
 
 CS 188 - Artificial Intelligence
   - Course Project - designed agents for the classic Pacman game using a variety of strategies (Python)
