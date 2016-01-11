@@ -19,7 +19,6 @@ Front and back end financial services.
 ## Education
 #### University of California, Berkeley - Bachelor of Arts, Computer Science (2011-01 - 2015-12) 
 CS 61A - Structure and Interpretation of Computer Programs
-  - Game of Pig - simulator and multiple strategies for the dice game (Python)
   - Twitter Trends - geographic visualization of Twitter data across the USA (Python)
   - Ants vs. SomeBees - tower defense game inspired by Plants vs. Zombies (Python)
   - Logo Interpreter - evaluator and parser for the Logo language (Python)
