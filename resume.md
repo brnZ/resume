@@ -5,6 +5,7 @@ Tel: 925-699-3883
 
 Computer science graduate from the University of California, Berkeley. Interests include web development, programming languages, and machine learning. In my free time I enjoy spending time outdoors and playing jazz piano.
 
+
 ## Experience
 #### Software Engineering Intern, Symmetricom, Inc. (2013-05 - 2013-08)
 Source control management system administration.
@@ -15,6 +16,7 @@ Source control management system administration.
 Front and back end financial services.
   - Developed iOS app for GoWallet, a service for managing financial payments products, e.g. gift cards.
   - Developed back end payment processing system for PayPower, a reloadable Visa prepaid card.
+
 
 ## Education
 #### University of California, Berkeley - Bachelor of Arts, Computer Science (2011-01 - 2015-12) 
@@ -28,7 +30,7 @@ CS 61B - Data Structures
   - Network (The Game) - designed agent that plays the game Network against a human or another agent using minimax search with alpha-beta pruning (Java)
 
 CS 61C - Machine Structures
-  - LIFC Compiler - compiler from hombrew language of LIFC to MIPS assembly (lexing, parsing, static analysis, code generation) (C)
+  - LIFC Compiler - compiler from homebrew language of LIFC to MIPS assembly (lexing, parsing, static analysis, code generation) (C)
   - Eigenvector Finding - simple eigenvector finding algorithm optimized with Intel SSE and OpenMP (C)
   - Processor Design - 2-stage pipelined processor for the Ida 2 assembly language (Logisim)
 
@@ -49,7 +51,7 @@ CS 164 - Programming Languages and Compilers
   - Arbor - small domain-specific language designed to visualize abstract syntax trees using the D3 JavaScript library; developed in two weeks by my partner and myself (JavaScript)
 
 CS 170 - Efficient Algorithms and Intractable Problems
-  - NP-Hard Approximation - approximation algorithm for a maximum acyclic subgraph problem proven to yield a better than 1/2-approximation on a majority of instances by reduction to a constraint satisfaction problem (Python)
+  - NP-Hard Approximation - approximation algorithm for maximum acyclic subgraph problem proven to yield a better than 1/2-approximation on a majority of instances by reduction to a constraint satisfaction problem (Python)
 
 CS 186 - Database Systems
   - Course Project - database system implementation using Amazon SimpleDB (Java)
@@ -77,6 +79,7 @@ C, C++, CoffeeScript, Objective-C, Java, JavaScript, Python, Ruby, Scala, Swift.
 
 #### Operating Systems 
 Arch, Debian, Fedora, OS X, Windows.
+
 
 ## References
 Available upon request.
