@@ -7,7 +7,7 @@ Computer science graduate from the University of California, Berkeley. Interests
 
 
 ## Experience
-#### Software Engineering Intern, Symmetricom, Inc. (2013-05 - 2013-08)
+#### Software Engineering Intern, Symmetricom (2013-05 - 2013-08)
 Source control management system administration.
   - Modernized source control management system from Mercurial to Git and Atlassian Bitbucket/JIRA.
   - Worked on new software development workflow, e.g. automating bug reporting and tracking services.
@@ -75,7 +75,7 @@ CS 188 - Artificial Intelligence
 AngularJS, D3, Express, Node.js, React, Django, Flask
 
 #### Programming Languages 
-C, C++, CoffeeScript, Objective-C, Java, JavaScript, Python, Ruby, Scala, Swift
+C, C++, CoffeeScript, Objective-C, Java, JavaScript, Kotlin, Python, Ruby, Scala, Swift
 
 #### Operating Systems 
 Arch, Debian, Fedora, OS X, Windows
