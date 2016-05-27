@@ -7,12 +7,12 @@ Computer science graduate from the University of California, Berkeley. Interests
 
 
 ## Experience
-#### Software Engineering Intern, Symmetricom (2013-05 - 2013-08)
+#### Software Eng. Intern, Symmetricom (2013-05 - 2013-08)
 Source control management system administration.
   - Modernized source control management system from Mercurial to Git and Atlassian Bitbucket/JIRA.
   - Worked on new software development workflow, e.g. automating bug reporting and tracking services.
 
-#### Software Engineering Intern, Blackhawk Network (2012-05 - 2012-08)
+#### Software Eng. Intern, Blackhawk Network (2012-05 - 2012-08)
 Front and back end financial services.
   - Developed iOS app for GoWallet, a service for managing financial payments products, e.g. gift cards.
   - Developed back end payment processing system for PayPower, a reloadable Visa prepaid card.
